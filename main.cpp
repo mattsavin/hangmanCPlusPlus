@@ -47,7 +47,7 @@ int main()
         {
             if (word.find(guess[i]) != std::string::npos)
             {
-                while (+)
+
             }
         }
         std::cout << guess << std::endl;
